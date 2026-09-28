@@ -1,0 +1,142 @@
+.button{
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 5px;
+    display: inline-block;
+}
+body{
+    text-align: center;
+}
+.about{
+    position:relative ;
+    width: 100%;
+    height: 500px;
+}
+.about img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.about h1 {
+    position: absolute;
+    bottom: 60%;
+    right: 33%;
+    color: white;
+    font-size: 45px;
+}
+.explore{
+    position:relative ;
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+}
+.explore img{
+width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.explorediv{
+    position :absolute;
+    bottom: 80%;
+    left : 30%;
+    color: aliceblue;
+}
+.explorediv h1{
+    font-size: 40px;
+}
+.explorediv a{
+     display: inline-block;
+    padding: 12px 25px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+.product1{
+    background-color: lightblue;
+    display : flex;
+    align-items: center;
+}
+.product1 img {
+    width: 400px;
+    height: auto;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-bottom: 3%;
+}
+.product1 div{
+    margin-left: 5px;
+}
+.product2{
+    background-color: lightblue;
+    display : flex;
+    align-items: center;
+    margin-top: 3%;
+}
+.product2 img {
+    width: 400px;
+    height: auto;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-bottom: 3%;
+}
+.product2 div{
+    margin-left: 5px;
+}
+.product3{
+    background-color: lightblue;
+    display : flex;
+    align-items: center;
+    margin-top: 3%;
+}
+.product3 img {
+    width: 400px;
+    height: auto;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-bottom: 3%;
+}
+.product3 div{
+    margin-left: 5px;
+}
+.product4{
+    background-color: lightblue;
+    display : flex;
+    align-items: center;
+    margin-top: 3%;
+}
+.product4 img {
+    width: 400px;
+    height: auto;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-bottom: 3%;
+}
+.product4 div{
+    margin-left: 5px;
+}
+.product5{
+    background-color: lightblue;
+    display : flex;
+    align-items: center;
+    margin-top: 3%;
+}
+.product5 img {
+    width: 400px;
+    height: auto;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-bottom: 3%;
+}
+.product5 div{
+    margin-left: 5px;
+}
+.contactbox{
+    border: 2px solid black;
+    text-align: center;
+}
+.icons img {
+    width: 150px;
+    height: 150px;
+}
